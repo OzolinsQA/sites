@@ -14098,14 +14098,14 @@ ol, ul {
 .ct-content li:before {
     content: '\f0da';
     font-family: 'FontAwesome';
-    color: #f59331;
+    color: #5aadc4;
     padding-right: 13px;
 }
 .ct-content .btn {
     margin-top: 30px;
 }
 .btn.btn-motive {
-    background: #f59331;
+    background: #5aadc4;
     color: white;
 }
 .btn {
