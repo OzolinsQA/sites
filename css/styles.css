@@ -11007,21 +11007,6 @@ header.masthead h1, header.masthead .h1 {
  */
 }
 
-.text-opacity-25 {
-  --bs-text-opacity: 0.25;
-}
-
-.text-opacity-50 {
-  --bs-text-opacity: 0.5;
-}
-
-.text-opacity-75 {
-  --bs-text-opacity: 0.75;
-}
-
-.text-opacity-100 {
-  --bs-text-opacity: 1;
-}
 
 .bg-primary {
   --bs-bg-opacity: 1;
