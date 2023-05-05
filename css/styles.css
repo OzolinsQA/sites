@@ -14292,7 +14292,7 @@ footer{
     width: 100% !important;
     transition: transform .6s ease;
     backface-visibility: hidden;
-    perspective: 2000px;
+    perspective: 3000px;
 }
 
 .carousel-item.active {
