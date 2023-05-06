@@ -10995,8 +10995,6 @@ header.masthead h1, header.masthead .h1 {
 }
 * {box-sizing:border-box}
 
-* {box-sizing:border-box}
-
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
@@ -11075,10 +11073,10 @@ header.masthead h1, header.masthead .h1 {
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 0.5s;
+  animation-duration: 1.5s;
 }
 
 @keyframes fade {
-  from {opacity: .2}
+  from {opacity: .4}
   to {opacity: 1}
 }
